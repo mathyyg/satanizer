@@ -1,4 +1,4 @@
-# Satanizer
+# Satanizer (WORK IN PROGESS)
 
 This program takes a file, gets its most common words/strings and replace them by random generated strings.
 It doesn't make the file unusable, just unreadable.
